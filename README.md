@@ -138,3 +138,17 @@ The available records have limited clinical outcome and geographical information
 
 **Reginald Didia**  
 Healthcare Data Visualization | Python | Exploratory Data Analysis
+
+## Dataset Source
+
+The dataset used in this project was obtained from Kaggle.
+
+**Dataset:** Healthcare Dataset  
+**Source:** Kaggle  
+**Creator:** prasad22
+
+**Dataset URL:** https://www.kaggle.com/datasets/prasad22/healthcare-dataset
+
+The dataset contains information about patient demographics, medical conditions, hospital admissions, billing amounts, insurance providers, and hospital stays.
+
+The original dataset is credited to its creator.
