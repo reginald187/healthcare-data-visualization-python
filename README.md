@@ -152,3 +152,10 @@ The dataset used in this project was obtained from Kaggle.
 The dataset contains information about patient demographics, medical conditions, hospital admissions, billing amounts, insurance providers, and hospital stays.
 
 The original dataset is credited to its creator.
+
+## Research Documents
+
+The following documents provide detailed explanations of the methodology, exploratory data analysis, visualisations, findings, and conclusions of this project.
+
+- 📄 [View Healthcare Data Visualization Report](reports/Data%20Visualization%20report.pdf)
+- 📊 [View Healthcare Research Poster](reports/project_poster.pdf)
